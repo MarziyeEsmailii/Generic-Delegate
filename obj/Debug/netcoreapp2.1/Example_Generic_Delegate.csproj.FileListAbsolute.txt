@@ -1,0 +1,11 @@
+C:\Users\DigiGolestan.ir\source\repos\Example_Generic_Delegate\Example_Generic_Delegate\bin\Debug\netcoreapp2.1\Example_Generic_Delegate.deps.json
+C:\Users\DigiGolestan.ir\source\repos\Example_Generic_Delegate\Example_Generic_Delegate\bin\Debug\netcoreapp2.1\Example_Generic_Delegate.runtimeconfig.json
+C:\Users\DigiGolestan.ir\source\repos\Example_Generic_Delegate\Example_Generic_Delegate\bin\Debug\netcoreapp2.1\Example_Generic_Delegate.runtimeconfig.dev.json
+C:\Users\DigiGolestan.ir\source\repos\Example_Generic_Delegate\Example_Generic_Delegate\bin\Debug\netcoreapp2.1\Example_Generic_Delegate.dll
+C:\Users\DigiGolestan.ir\source\repos\Example_Generic_Delegate\Example_Generic_Delegate\bin\Debug\netcoreapp2.1\Example_Generic_Delegate.pdb
+C:\Users\DigiGolestan.ir\source\repos\Example_Generic_Delegate\Example_Generic_Delegate\obj\Debug\netcoreapp2.1\Example_Generic_Delegate.csproj.AssemblyReference.cache
+C:\Users\DigiGolestan.ir\source\repos\Example_Generic_Delegate\Example_Generic_Delegate\obj\Debug\netcoreapp2.1\Example_Generic_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\DigiGolestan.ir\source\repos\Example_Generic_Delegate\Example_Generic_Delegate\obj\Debug\netcoreapp2.1\Example_Generic_Delegate.AssemblyInfoInputs.cache
+C:\Users\DigiGolestan.ir\source\repos\Example_Generic_Delegate\Example_Generic_Delegate\obj\Debug\netcoreapp2.1\Example_Generic_Delegate.AssemblyInfo.cs
+C:\Users\DigiGolestan.ir\source\repos\Example_Generic_Delegate\Example_Generic_Delegate\obj\Debug\netcoreapp2.1\Example_Generic_Delegate.dll
+C:\Users\DigiGolestan.ir\source\repos\Example_Generic_Delegate\Example_Generic_Delegate\obj\Debug\netcoreapp2.1\Example_Generic_Delegate.pdb
